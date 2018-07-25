@@ -1,0 +1,5 @@
+In order to run our project enter followig comands:
+
+1. docker build -t "online_courses" .
+
+2. docker run -p 8888:8888 online_courses
