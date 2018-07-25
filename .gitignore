@@ -2,3 +2,5 @@
 \.ipynb_checkpoints/
 
 data_set_cleaned\.csv
+
+cleaned_data\.csv
