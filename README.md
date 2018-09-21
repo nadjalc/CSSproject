@@ -1,7 +1,9 @@
+https://mybinder.org/v2/gh/nadjalc/CSSproject/master
+
 Research project - Online Courses
 Programing language: Python 3
 
-Goal: Discovering which factors are related with student’s success?
+Goal: Discovering which factors are related with studentâ€™s success?
 Data: MIT and Harvard online courses
 
 01_data_cleaning: Preparing variables of data set to be used for Linear regression. Filling null values with 0 or unknown depending on situation. Furthermore, creating derivative columns from columns that consist of certain dates. They are derived to show that record in number of days or years. Then, categorical variables are transformed using dummy variables function provided in Python. Finally, all the remaining rows that contain null values are dropped. 
