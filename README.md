@@ -1,4 +1,6 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nadjalc/CSSproject/master)
+mybinder.org:  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nadjalc/CSSproject/master)
+
+GESIS binder:  [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/nadjalc/CSSproject/master)
 
 
 
