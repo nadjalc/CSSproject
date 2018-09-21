@@ -7,7 +7,7 @@ dependencies:
   - pip:
     - matplotlib==2.0.2
     - numpy==1.13.1
-    - numpydoc=0.6.0
+    - numpydoc==0.6.0
     - pandas==0.20.2
     - pandocfilter==1.4.1
     - python-dateutil==2.6.0
